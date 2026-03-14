@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz-themes.github.io/absolutegruv
+  baseUrl: quartz-themes.github.io/absolutegruv/absolutegruv
   ignorePatterns:
     - private
     - templates
